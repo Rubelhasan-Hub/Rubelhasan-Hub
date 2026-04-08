@@ -8,9 +8,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+am+Rubel+Hasan;Frontend+Developer;React+Lover;Always+Learning+New+Things+🚀" />
 </h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubelhasan-hub" alt="rubelhasan-hub" /></a> </p>
-
 - 🔭 I’m currently working on **Modern React Projects**
 
 - 🌱 I’m currently learning **React, Tailwind CSS, JavaScript (ES6+), Next.js**
