@@ -35,13 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubelhasan-hub&" alt="rubelhasan-hub" /></p>
 <img width="1536" height="1024" alt="Website" src="https://github.com/user-attachments/assets/5df0f616-765e-4ec2-88b0-b4b7271bf502" />
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubelhasan-hub&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubelhasan-hub&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
