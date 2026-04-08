@@ -34,23 +34,15 @@
 <img width="1536" height="1024" alt="Website" src="https://github.com/user-attachments/assets/5df0f616-765e-4ec2-88b0-b4b7271bf502" />
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- Contributions -->
-<img src="https://github-readme-stats.vercel.app/api?username=rubelhasan-hub&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubelhasan-hub&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubelhasan-hub&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubelhasan-hub&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rubelhasan-hub&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rubelhasan-hub&theme=tokyonight" />
+</p>
