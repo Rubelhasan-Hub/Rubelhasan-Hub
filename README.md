@@ -6,19 +6,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=0AFFEF&center=true&vCenter=true&width=500&lines=I+am+Rubel+Hasan;Frontend+Developer;React+Enthusiast;Building+Cool+Things" />
 </p>
-- 🔭 I’m currently working on **Modern React Projects**
-
-- 🌱 I’m currently learning **React, Tailwind CSS, JavaScript (ES6+), Next.js**
-
-- 👯 I’m looking to collaborate on **Frontend Web Applications**
-
-- 🤝 I’m looking for help with **Advanced React & Backend Integration**
-
-- 💬 Ask me about **React, JavaScript, Tailwind, GSAP**
-
-- 📫 How to reach me **rubelhasanmd29@gmail.com**
-
-- ⚡ Fun fact **I love turning ideas into real projects**
+- ```javascript
+- const rubel = {
+  role: "Frontend Developer",
+  location: "Bangladesh 🇧🇩",
+  currentFocus: "Modern React Projects",
+  learning: ["Next.js", "Advanced JavaScript", "Backend"],
+  skills: ["React", "JavaScript", "Tailwind", "GSAP"],
+  passion: "Building clean UI & impactful web apps",
+  funFact: "Turning ideas into real-world projects 🚀"
+};
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
