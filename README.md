@@ -6,16 +6,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=0AFFEF&center=true&vCenter=true&width=500&lines=I+am+Rubel+Hasan;Frontend+Developer;React+Enthusiast;Building+Cool+Things" />
 </p>
-- ```javascript
-- const rubel = {
-  role: "Frontend Developer",
-  location: "Bangladesh 🇧🇩",
-  currentFocus: "Modern React Projects",
-  learning: ["Next.js", "Advanced JavaScript", "Backend"],
-  skills: ["React", "JavaScript", "Tailwind", "GSAP"],
-  passion: "Building clean UI & impactful web apps",
-  funFact: "Turning ideas into real-world projects 🚀"
-};
+<br>
+## 🚀 About Me
+
+- 🧠 **Currently building:** Modern React Projects  
+- ⚡ **Learning:** Next.js & Backend Integration  
+- 🎯 **Goal:** Become a Full Stack Developer  
+- 💬 **Ask me about:** React, JavaScript, Tailwind, GSAP  
+- 🤝 **Open to:** Collaboration & freelance work  
+- 📩 **Reach me:** rubelhasanmd29@gmail.com  
+- 🚀 **Fun fact:** I turn ideas into real products  
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
