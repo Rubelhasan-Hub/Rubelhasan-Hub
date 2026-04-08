@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Rubel Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img width="1400" height="347" alt="image" src="https://github.com/user-attachments/assets/bed20de5-d481-4f70-91fc-e9de33b87dcd" />
-<h1 align="center">
-  Hi 👋, I'm Rubel Hasan
-</h1>
+<h1 align="center">Hey 👋 I'm Rubel Hasan</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=I+am+Rubel+Hasan" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=0AFFEF&center=true&vCenter=true&width=500&lines=I+am+Rubel+Hasan;Frontend+Developer;React+Enthusiast;Building+Cool+Things" />
+</p>
 - 🔭 I’m currently working on **Modern React Projects**
 
 - 🌱 I’m currently learning **React, Tailwind CSS, JavaScript (ES6+), Next.js**
