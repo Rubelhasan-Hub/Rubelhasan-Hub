@@ -13,24 +13,20 @@ I'm a passionate web developer who loves building clean, modern, and user-friend
 I started my journey with HTML, CSS, JavaScript, and now I’m focused on improving my frontend skills with
 <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and modern UI design.
 </p>
-
 <p>
 Currently, I’m learning step by step and turning my ideas into real projects. I enjoy solving problems,
 building responsive interfaces, and exploring new technologies that help me grow as a developer.
 </p>
-
 <p>
 What makes me different is my strong interest in practical learning. I believe in learning by building,
 improving every day, and creating projects that are both functional and visually appealing.
 </p>
----Focused on: Frontend Development | React | Next.js | Tailwind CSS
----Currently learning: Backend Integration & Full Stack Development
----Goal: Become a skilled Full Stack Web Developer
----Ask me about: React, JavaScript, Tailwind CSS, UI Design
----Open to: Collaboration, learning opportunities, and freelance work
----Based in: Bangladesh
-
-
+📌 Focused on: Frontend Development | React | Tailwind CSS  
+🚀 Currently learning: Next.js & Backend Integration  
+🎯 Goal: Full Stack Web Developer  
+💬 Ask me about: React, JavaScript, UI Design  
+🤝 Open to: Collaboration & freelance opportunities  
+📍 Based in: Bangladesh  
 
 
 - 🚀 **Fun fact:** I turn ideas into real products  
