@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=0AFFEF&center=true&vCenter=true&width=500&lines=I+am+Rubel+Hasan;Frontend+Developer;React+Enthusiast;Building+Cool+Things" />
 </p>
 <br>
-<h2 align="left">👨‍💻 ABOUT ME</h2>
+<h1 align="left">ABOUT ME</h1>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&left=true&vCenter=true&width=900&lines=I'm+a+passionate+web+developer+who+loves+building+clean%2C+modern%2C+and+user-friendly+web+applications." alt="Typing SVG" />
