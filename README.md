@@ -21,12 +21,14 @@ building responsive interfaces, and exploring new technologies that help me grow
 What makes me different is my strong interest in practical learning. I believe in learning by building,
 improving every day, and creating projects that are both functional and visually appealing.
 </p>
+---
 📌 Focused on: Frontend Development | React | Tailwind CSS  
 🚀 Currently learning: Next.js & Backend Integration  
 🎯 Goal: Full Stack Web Developer  
 💬 Ask me about: React, JavaScript, UI Design  
 🤝 Open to: Collaboration & freelance opportunities  
 📍 Based in: Bangladesh  
+---
 
 
 - 🚀 **Fun fact:** I turn ideas into real products  
