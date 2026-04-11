@@ -35,8 +35,6 @@ improving every day, and creating projects that are both functional and visually
 📍 Based in: Bangladesh  
 
 ---
-
-- 🚀 **Fun fact:** I turn ideas into real products  
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
