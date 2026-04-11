@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=0AFFEF&center=true&vCenter=true&width=500&lines=I+am+Rubel+Hasan;Frontend+Developer;React+Enthusiast;Building+Cool+Things" />
 </p>
 <br>
-##  About Me
+<h2 align="left">👨‍💻 About Me</h2>
 
 - 🧠 **Currently building:** Modern React Projects  
 - ⚡ **Learning:** Next.js & Backend Integration  
