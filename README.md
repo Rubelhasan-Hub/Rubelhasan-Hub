@@ -3,7 +3,7 @@
 <h1 align="center" style="font-size: 70px">I'm Rubel Hasan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=46&duration=2500&pause=800&color=0AFFEF&center=true&vCenter=true&width=500&lines=I+am+Rubel+Hasan;Frontend+Developer;React+Enthusiast;Building+Cool+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=800&color=0AFFEF&center=true&vCenter=true&width=500&lines=I+am+Rubel+Hasan;Frontend+Developer;React+Enthusiast;Building+Cool+Things" />
 </p>
 <br>
 <h1 align="left">ABOUT ME....</h1>
