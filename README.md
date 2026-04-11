@@ -7,14 +7,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=0AFFEF&center=true&vCenter=true&width=500&lines=I+am+Rubel+Hasan;Frontend+Developer;React+Enthusiast;Building+Cool+Things" />
 </p>
 <br>
-<h2 align="left">👨‍💻 About Me</h2>
+<h2 align="left">ABOUT ME</h2>
+<p>
+I'm a passionate web developer who loves building clean, modern, and user-friendly web applications.
+I started my journey with HTML, CSS, JavaScript, and now I’m focused on improving my frontend skills with
+<strong>React.js</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and modern UI design.
+</p>
 
-- 🧠 **Currently building:** Modern React Projects  
-- ⚡ **Learning:** Next.js & Backend Integration  
-- 🎯 **Goal:** Become a Full Stack Developer  
-- 💬 **Ask me about:** React, JavaScript, Tailwind, GSAP  
-- 🤝 **Open to:** Collaboration & freelance work  
-- 📩 **Reach me:** rubelhasanmd29@gmail.com  
+<p>
+Currently, I’m learning step by step and turning my ideas into real projects. I enjoy solving problems,
+building responsive interfaces, and exploring new technologies that help me grow as a developer.
+</p>
+
+<p>
+What makes me different is my strong interest in practical learning. I believe in learning by building,
+improving every day, and creating projects that are both functional and visually appealing.
+</p>
+```text
+-Focused on: Frontend Development | React | Next.js | Tailwind CSS
+-Currently learning: Backend Integration & Full Stack Development
+-Goal: Become a skilled Full Stack Web Developer
+-Ask me about: React, JavaScript, Tailwind CSS, UI Design
+-Open to: Collaboration, learning opportunities, and freelance work
+-Based in: Bangladesh
+
+
+
+
 - 🚀 **Fun fact:** I turn ideas into real products  
 <br>
 <br>
