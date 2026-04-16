@@ -33,7 +33,7 @@ Based in: Bangladesh
 <br>
 <br>
 <h3 align="left" style="font-size: 40px">Connect with me:</h3>
-<p align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rubelhasan-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rubelhasan-/" width="50" height="50" /></a>
 <a href="https://fb.com/https://www.facebook.com/rubel.hasan.735967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rubel.hasan.735967" width="50" height="50" /></a>
 <a href="https://www.topcoder.com/members/2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="2010" width="50" height="50"/></a>
