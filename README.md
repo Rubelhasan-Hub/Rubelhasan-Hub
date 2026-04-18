@@ -31,7 +31,8 @@ Based in: Bangladesh
 
 ---
 <br>
-## Tech Stack
+
+<h1 align="left">Tech Stack</h1>
 
 <div align="center">
 
