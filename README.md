@@ -60,8 +60,10 @@ Based in: Bangladesh
 </div>
 
 ---
+
+<img width="1536" height="1024" alt="linkedin post - 1" src="https://github.com/user-attachments/assets/ee3a46a2-1753-46e2-a897-28ebd348931b" />
 ---------------------------------------------------------------------------------------------
-<img width="1536" height="1024" alt="Website" src="https://github.com/user-attachments/assets/5df0f616-765e-4ec2-88b0-b4b7271bf502" />
+
 ---
 
 ## 🔥 GitHub Streak
