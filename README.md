@@ -62,7 +62,6 @@ Based in: Bangladesh
 ---
 
 <img width="1536" height="1024" alt="linkedin post - 1" src="https://github.com/user-attachments/assets/ee3a46a2-1753-46e2-a897-28ebd348931b" />
----------------------------------------------------------------------------------------------
 
 ---
 
