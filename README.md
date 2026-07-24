@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 <img width="1774" height="887" alt="cover-image" src="https://github.com/user-attachments/assets/92a23c2b-724a-46d2-b838-371134ef6538" />
 <h1 align="center" style="font-size: 70px">I'm Rubel Hasan</h1>
 
