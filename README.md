@@ -61,7 +61,9 @@ Based in: Bangladesh
 
 ---
 
-<img width="1536" height="1024" alt="linkedin post - 1" src="https://github.com/user-attachments/assets/ee3a46a2-1753-46e2-a897-28ebd348931b" />
+<img width="1536" height="1024" alt="project-5" src="https://github.com/user-attachments/assets/b5775f9b-0d91-415c-a37f-22766736132f" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 24, 2026, 03_54_54 PM" src="https://github.com/user-attachments/assets/efd503c6-0764-4757-98aa-86bc1a92a706" />
+
 
 ---
 
