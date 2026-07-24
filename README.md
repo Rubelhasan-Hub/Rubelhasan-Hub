@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img width="1536" height="483" alt="Linkedin-ber" src="https://github.com/user-attachments/assets/e360f6f2-f52e-4f65-ba88-33b9867e4e03" />
+<img width="1774" height="887" alt="cover-image" src="https://github.com/user-attachments/assets/92a23c2b-724a-46d2-b838-371134ef6538" />
 <h1 align="center" style="font-size: 70px">I'm Rubel Hasan</h1>
 
 <p align="center">
